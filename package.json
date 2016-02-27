@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jerrywei17/note-taker"
+    "url": "https://github.com/jerrywei17/githubSearcher"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jerrywei17/note-taker/issues"
+    "url": "https://github.com/jerrywei17/githubSearcher/issues"
   },
-  "homepage": "https://github.com/jerrywei17/note-taker#readme",
+  "homepage": "https://github.com/jerrywei17/githubSearcher#readme",
   "dependencies": {
     "axios": "^0.8.0",
     "babel-core": "^6.3.13",
